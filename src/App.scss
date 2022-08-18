@@ -1,0 +1,40 @@
+// .App {
+//   // text-align: center;
+//   .card {
+//     height: 10rem;
+//     width: 5rem;
+//     background-color: yellow;
+//     &__image {
+//       color: red;
+//     }
+//     &__heading {
+//       color: green;
+//     }
+//     &__paragraph {
+//       color: brown;
+//       &--normal {
+//         font-style: normal;
+//       }
+//       &--italic {
+//         font-style: italic;
+//       }
+//     }
+//   }
+//   .btn {
+//     width: 5rem;
+//     height: 2rem;
+//     padding: 5px 10px;
+//     &--primary {
+//       background-color: blue;
+//       color: #fff;
+//     }
+//     &--secondary {
+//       background-color: green;
+//       color: #fff;
+//     }
+//   }
+// }
+.container {
+  display: flex;
+  margin-left: 1rem;
+}
